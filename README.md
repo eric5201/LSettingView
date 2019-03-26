@@ -26,12 +26,12 @@
  - 复选框和切换按钮模式下增加选中状态监听
 
 ### 运行效果：
-![效果1](http://o9w936rbz.bkt.clouddn.com/github/img/LSettingView/snipaste20170525_114555.png?imageView2/0/w/500/h/1200)
-![效果2](http://o9w936rbz.bkt.clouddn.com/github/img/LSettingView/Screenshot_20170331-144350.png?imageView2/0/w/500/h/1200)
-![效果3](http://o9w936rbz.bkt.clouddn.com/github/img/LSettingView/Screenshot_20170331-144358.png?imageView2/0/w/500/h/1200)
-![效果4](http://o9w936rbz.bkt.clouddn.com/github/img/LSettingView/Screenshot_1500614109.png?imageView2/0/w/500/h/1200)
-![效果5](http://o9w936rbz.bkt.clouddn.com/github/img/LSettingView/Screenshot_1500614115.png?imageView2/0/w/500/h/1200)
-![效果6](http://o9w936rbz.bkt.clouddn.com/github/img/LSettingView/Screenshot_1500614211.png?imageView2/0/w/500/h/1200)
+![效果1](https://github.com/leonHua/LSettingView/blob/master/screenshot/snipaste20170525_114555.png?imageView2/0/w/500/h/1200)
+![效果2](https://github.com/leonHua/LSettingView/blob/master/screenshot/Screenshot_20170331-144350.png?imageView2/0/w/500/h/1200)
+![效果3](https://github.com/leonHua/LSettingView/blob/master/screenshot/Screenshot_20170331-144358.png?imageView2/0/w/500/h/1200)
+![效果4](https://github.com/leonHua/LSettingView/blob/master/screenshot/Screenshot_1500614109.png?imageView2/0/w/500/h/1200)
+![效果5](https://github.com/leonHua/LSettingView/blob/master/screenshot/Screenshot_1500614115.png?imageView2/0/w/500/h/1200)
+![效果6](https://github.com/leonHua/LSettingView/blob/master/screenshot/Screenshot_1500614211.png?imageView2/0/w/500/h/1200)
 
 ### 快速使用
 #### 1. 添加依赖
